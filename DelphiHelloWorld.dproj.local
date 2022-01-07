@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/07 09:51:27.000.889,=C:\Users\Heidi\OneDrive\Asiakirjat\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/07 10:24:44.000.112,C:\Users\Heidi\OneDrive\Asiakirjat\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Heidi\OneDrive\Asiakirjat\Embarcadero\Studio\Projects\project1\uFormHelloWorld.pas</Transaction>
+    <Transaction>2022/01/07 10:24:44.000.112,C:\Users\Heidi\OneDrive\Asiakirjat\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Heidi\OneDrive\Asiakirjat\Embarcadero\Studio\Projects\project1\uFormHelloWorld.fmx</Transaction>
+    <Transaction>2022/01/07 10:24:56.000.356,C:\Users\Heidi\OneDrive\Asiakirjat\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Heidi\OneDrive\Asiakirjat\Embarcadero\Studio\Projects\project1\DelphiHelloWorld.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
